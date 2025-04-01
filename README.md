@@ -23,6 +23,10 @@
 1. 安装扩展后，浏览任何包含用Katex渲染的数学公式的网页
 2. 双击公式元素即可将其Latex源码复制到剪贴板
 
+## 示例
+
+![示例GIF](ExampleUse/DeepSeekFormulaCopy.gif)
+
 ## 发布信息
 
 版本: 1.0
@@ -53,6 +57,8 @@ OR
 
 1. After installing the extension, browse any webpage containing math formulas rendered with Katex
 2. Double-click on the formula element to copy its LaTeX source code to clipboard
+
+[Example Video](ExampleUse/DeepSeekFormulaCopy.mp4)
 
 ## Release Info
 
