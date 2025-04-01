@@ -6,6 +6,7 @@
 
 - 自动检测网页（例如DeepSeek-Chat）中的数学公式元素
 - 支持双击复制Latex公式到剪贴板
+- [视频演示：复制DeepSeek对话公式不再困难！](https://www.bilibili.com/video/BV1e9ZtYXEqp/?share_source=copy_web&vd_source=fb6e70daf6cf1f1f86181af3235ededc)
 
 ## 安装
 
@@ -41,6 +42,7 @@ A Chrome/Edge browser extension for detecting and copying mathematical formulas 
 
 - Automatically detects mathematical formula elements on web pages (like DeepSeek-Chat)
 - Supports double-click to copy LaTeX formulas to clipboard
+- [Video Demo: Copy DeepSeek Chat Formulas Easily!](https://www.bilibili.com/video/BV1e9ZtYXEqp/?share_source=copy_web&vd_source=fb6e70daf6cf1f1f86181af3235ededc)
 
 ## Installation
 
