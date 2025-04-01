@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Deepseek-formula-copy",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Automatically detect math formula elements on web pages, support double-click to copy LaTeX formula to clipboard",
+    "description": "The description of the extension."
+  }
+}

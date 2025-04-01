@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Deepseek公式复制",
+    "description": "扩展名称"
+  },
+  "extensionDescription": {
+    "message": "自动检测网页中的数学公式元素，支持双击复制Latex公式到剪贴板",
+    "description": "扩展描述"
+  }
+}
